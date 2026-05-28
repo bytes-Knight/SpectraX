@@ -8,10 +8,8 @@ build/linux/
 # Frontend dependencies and build artifacts
 frontend/node_modules/
 frontend/dist/
-frontend/package-lock.json
 
 # Go dependencies
-go.sum
 vendor/
 
 # OS generated files
