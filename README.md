@@ -68,7 +68,7 @@ This tool is for educational and authorized security testing purposes only. The 
 
 ## 👤 Author
 
--   **Bytes_Knight** - [mdlimonhosen94@gmail.com](mailto:mdlimonhosen94@gmail.com)
+-   **Bytes_Knight** - [https://x.com/bytes_Knight](https://x.com/bytes_Knight)
 
 ---
 *Built with ❤️ using Wails*
