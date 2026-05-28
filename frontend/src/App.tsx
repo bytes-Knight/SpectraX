@@ -103,7 +103,7 @@ function App() {
       <div className="scanline" />
       
       {/* Header */}
-      <header className="max-w-7xl w-full mx-auto flex items-center justify-between mb-6 flex-shrink-0 z-10">
+      <header className="max-w-[95%] w-full mx-auto flex items-center justify-between mb-6 flex-shrink-0 z-10">
         <div className="flex items-center gap-4">
           <div className="p-3 bg-gradient-to-br from-cyan-600 to-blue-700 rounded-xl border border-cyan-400/20">
             <Shield className="w-6 h-6" />
@@ -128,7 +128,7 @@ function App() {
         </div>
       </header>
 
-      <main className="max-w-7xl w-full mx-auto grid grid-cols-1 lg:grid-cols-12 gap-6 flex-grow overflow-hidden z-10">
+      <main className="max-w-[95%] w-full mx-auto grid grid-cols-1 lg:grid-cols-12 gap-6 flex-grow overflow-hidden z-10">
         {/* Input Panel */}
         <div className="lg:col-span-4 flex flex-col h-full gap-4">
           <div className="glass rounded-3xl p-6 space-y-4 flex flex-col flex-grow relative overflow-hidden">
